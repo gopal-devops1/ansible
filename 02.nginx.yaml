@@ -1,5 +1,5 @@
 - name: install and run nginx
-  hosts: web
+  hosts: 34.227.56.62
   become: yes #it will get root access
   tasks:
   - name: install nginx package
