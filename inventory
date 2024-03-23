@@ -1,8 +1,8 @@
 192.187.56.20
 192.187.56.30
 
-[localhost]
-localhost
+[web]
+54.242.105.126
 
 [localhost:vars]
 Course="DevOps From inventory"
@@ -11,8 +11,6 @@ Duration="110HRS"
 PERSON="Siva from inventory"
 WISHES="Morning from inventory"
 
-[web]
-54.242.105.126
 
 [web:vars]
 Course="DevOps From inventory"
