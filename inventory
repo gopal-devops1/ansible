@@ -12,7 +12,7 @@ PERSON="Siva from inventory"
 WISHES="Morning from inventory"
 
 [web]
-34.227.56.62
+54.242.105.126
 
 [web:vars]
 Course="DevOps From inventory"
